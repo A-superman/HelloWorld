@@ -2,5 +2,7 @@
 
 a simple project
 
-practice
+practice，大家好
+
+练习git
 
